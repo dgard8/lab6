@@ -1,0 +1,99 @@
+nohup: ignoring input
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=H',
+  query: { q: 'H' },
+  pathname: '/getcity',
+  path: '/getcity?q=H',
+  href: '/getcity?q=H' }
+In Getcity
+[{"city":"Hanksville"},{"city":"Hanna"},{"city":"Hatch"},{"city":"Heber City"},{"city":"Helper"},{"city":"Henefer"},{"city":"Henrieville"},{"city":"Hiawatha"},{"city":"Hildale"},{"city":"Hill AFB"},{"city":"Hinckley"},{"city":"Holden"},{"city":"Honeyville"},{"city":"Hooper"},{"city":"Howell"},{"city":"Huntington"},{"city":"Huntsville"},{"city":"Hurricane"},{"city":"Hyde Park"},{"city":"Hyrum"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=H',
+  query: { q: 'H' },
+  pathname: '/getcity',
+  path: '/getcity?q=H',
+  href: '/getcity?q=H' }
+In Getcity
+[{"city":"Hanksville"},{"city":"Hanna"},{"city":"Hatch"},{"city":"Heber City"},{"city":"Helper"},{"city":"Henefer"},{"city":"Henrieville"},{"city":"Hiawatha"},{"city":"Hildale"},{"city":"Hill AFB"},{"city":"Hinckley"},{"city":"Holden"},{"city":"Honeyville"},{"city":"Hooper"},{"city":"Howell"},{"city":"Huntington"},{"city":"Huntsville"},{"city":"Hurricane"},{"city":"Hyde Park"},{"city":"Hyrum"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Ha',
+  query: { q: 'Ha' },
+  pathname: '/getcity',
+  path: '/getcity?q=Ha',
+  href: '/getcity?q=Ha' }
+In Getcity
+[{"city":"Hanksville"},{"city":"Hanna"},{"city":"Hatch"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Han',
+  query: { q: 'Han' },
+  pathname: '/getcity',
+  path: '/getcity?q=Han',
+  href: '/getcity?q=Han' }
+In Getcity
+[{"city":"Hanksville"},{"city":"Hanna"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Hann',
+  query: { q: 'Hann' },
+  pathname: '/getcity',
+  path: '/getcity?q=Hann',
+  href: '/getcity?q=Hann' }
+In Getcity
+[{"city":"Hanna"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Hanna',
+  query: { q: 'Hanna' },
+  pathname: '/getcity',
+  path: '/getcity?q=Hanna',
+  href: '/getcity?q=Hanna' }
+In Getcity
+[{"city":"Hanna"}]
+{ protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Hanna',
+  query: { q: 'Hanna' },
+  pathname: '/getcity',
+  path: '/getcity?q=Hanna',
+  href: '/getcity?q=Hanna' }
+In Getcity
+[{"city":"Hanna"}]
